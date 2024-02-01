@@ -1,0 +1,14 @@
+D:\.NET\Car Inventory System\bin\Debug\net8.0\Car Inventory System.exe
+D:\.NET\Car Inventory System\bin\Debug\net8.0\Car Inventory System.deps.json
+D:\.NET\Car Inventory System\bin\Debug\net8.0\Car Inventory System.runtimeconfig.json
+D:\.NET\Car Inventory System\bin\Debug\net8.0\Car Inventory System.dll
+D:\.NET\Car Inventory System\bin\Debug\net8.0\Car Inventory System.pdb
+D:\.NET\Car Inventory System\obj\Debug\net8.0\Car Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Car Inventory System\obj\Debug\net8.0\Car Inventory System.AssemblyInfoInputs.cache
+D:\.NET\Car Inventory System\obj\Debug\net8.0\Car Inventory System.AssemblyInfo.cs
+D:\.NET\Car Inventory System\obj\Debug\net8.0\Car Inventory System.csproj.CoreCompileInputs.cache
+D:\.NET\Car Inventory System\obj\Debug\net8.0\Car Inventory System.dll
+D:\.NET\Car Inventory System\obj\Debug\net8.0\refint\Car Inventory System.dll
+D:\.NET\Car Inventory System\obj\Debug\net8.0\Car Inventory System.pdb
+D:\.NET\Car Inventory System\obj\Debug\net8.0\Car Inventory System.genruntimeconfig.cache
+D:\.NET\Car Inventory System\obj\Debug\net8.0\ref\Car Inventory System.dll

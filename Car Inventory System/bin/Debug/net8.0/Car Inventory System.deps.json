@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Car Inventory System/1.0.0": {
+        "runtime": {
+          "Car Inventory System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Car Inventory System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
